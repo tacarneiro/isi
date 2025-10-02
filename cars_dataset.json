@@ -1,0 +1,264 @@
+{
+  "Cars": [
+    {
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "year": 2023,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 130,
+          "kw": 97
+        }
+      },
+      "price": 28990
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": 2024,
+      "fuel": "Elétrico",
+      "engine": {
+        "power": {
+          "hp": 283,
+          "kw": 211
+        }
+      },
+      "price": 39990
+    },
+    {
+      "brand": "BMW",
+      "model": "320d",
+      "year": 2022,
+      "fuel": "Diesel",
+      "engine": {
+        "power": {
+          "hp": 190,
+          "kw": 142
+        }
+      },
+      "price": 48900
+    },
+    {
+      "brand": "Audi",
+      "model": "A3 35 TFSI",
+      "year": 2023,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 150,
+          "kw": 112
+        }
+      },
+      "price": 35950
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "A180",
+      "year": 2022,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 136,
+          "kw": 101
+        }
+      },
+      "price": 34900
+    },
+    {
+      "brand": "Renault",
+      "model": "Clio TCe 90",
+      "year": 2023,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 90,
+          "kw": 67
+        }
+      },
+      "price": 18990
+    },
+    {
+      "brand": "Peugeot",
+      "model": "208",
+      "year": 2024,
+      "fuel": "Elétrico",
+      "engine": {
+        "power": {
+          "hp": 156,
+          "kw": 116
+        }
+      },
+      "price": 33990
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla Hybrid",
+      "year": 2023,
+      "fuel": "Híbrido",
+      "engine": {
+        "power": {
+          "hp": 140,
+          "kw": 104
+        }
+      },
+      "price": 28950
+    },
+    {
+      "brand": "Ford",
+      "model": "Focus 1.0 EcoBoost",
+      "year": 2022,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 125,
+          "kw": 93
+        }
+      },
+      "price": 27490
+    },
+    {
+      "brand": "Hyundai",
+      "model": "i30",
+      "year": 2023,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 120,
+          "kw": 89
+        }
+      },
+      "price": 24490
+    },
+    {
+      "brand": "Kia",
+      "model": "Ceed",
+      "year": 2023,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 160,
+          "kw": 119
+        }
+      },
+      "price": 25990
+    },
+    {
+      "brand": "SEAT",
+      "model": "Leon",
+      "year": 2022,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 150,
+          "kw": 112
+        }
+      },
+      "price": 23990
+    },
+    {
+      "brand": "Škoda",
+      "model": "Octavia",
+      "year": 2023,
+      "fuel": "Diesel",
+      "engine": {
+        "power": {
+          "hp": 150,
+          "kw": 112
+        }
+      },
+      "price": 30990
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic e:HEV",
+      "year": 2023,
+      "fuel": "Híbrido",
+      "engine": {
+        "power": {
+          "hp": 184,
+          "kw": 137
+        }
+      },
+      "price": 37990
+    },
+    {
+      "brand": "Mazda",
+      "model": "3 Skyactiv-G",
+      "year": 2022,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 122,
+          "kw": 91
+        }
+      },
+      "price": 26950
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "year": 2023,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 130,
+          "kw": 97
+        }
+      },
+      "price": 27490
+    },
+    {
+      "brand": "Volvo",
+      "model": "XC40 Recharge",
+      "year": 2024,
+      "fuel": "Elétrico",
+      "engine": {
+        "power": {
+          "hp": 238,
+          "kw": 177
+        }
+      },
+      "price": 47990
+    },
+    {
+      "brand": "Nissan",
+      "model": "Qashqai e-POWER",
+      "year": 2023,
+      "fuel": "Híbrido",
+      "engine": {
+        "power": {
+          "hp": 190,
+          "kw": 142
+        }
+      },
+      "price": 33990
+    },
+    {
+      "brand": "Dacia",
+      "model": "Duster",
+      "year": 2022,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 130,
+          "kw": 97
+        }
+      },
+      "price": 19990
+    },
+    {
+      "brand": "Fiat",
+      "model": "500X",
+      "year": 2022,
+      "fuel": "Gasolina",
+      "engine": {
+        "power": {
+          "hp": 120,
+          "kw": 89
+        }
+      },
+      "price": 22490
+    }
+  ]
+}
